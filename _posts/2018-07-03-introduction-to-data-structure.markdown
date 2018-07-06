@@ -30,5 +30,7 @@ Data Structures can be mainly classified in two categories:
 ![Non-linear data structure](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/undirectedgraph.png)
 
 
+
+
 So thats it for the introduction to data stuctures. In next post will look at array data structure.
 
